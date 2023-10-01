@@ -20,7 +20,7 @@ import signal
 from create_clean_table import *
 
 global DRIVER_LOCATION
-DRIVER_LOCATION = "C:\\Users\\Utilisateur\\Desktop\\chromedriver.exe"
+DRIVER_LOCATION = "C:\\chromedriver\\chromedriver.exe"
 
 global TYPE_ODDS
 TYPE_ODDS = 'CLOSING' # you can change to 'OPENING' if you want to collect opening odds, any other value will make the program collect CLOSING odds
